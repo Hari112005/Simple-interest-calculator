@@ -1,0 +1,45 @@
+h1 {
+  text-shadow: 0.5px 0.5px 2px;
+}
+
+
+#frame {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  height: max-content;
+  width: 300px;
+  border-radius: 11px;
+  background-color: antiquewhite;
+  color: orange;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+button {
+  margin-left: 10px;
+  background-color: #4D6528;
+  color: white;
+  font-weight: bolder;
+  height: 20px;
+
+}
+
+#result {
+  font-weight: bolder;
+  font-size: x-large;
+
+}
+
+input {
+  text-align: center;
+  font-weight: bold;
+  color: #3442DC;
+  height: 20px;
+  border-radius: 11px;
+  border-width: 1px;
+  font-size: 15px;
+}
